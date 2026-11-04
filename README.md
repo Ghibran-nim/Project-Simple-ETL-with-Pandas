@@ -24,9 +24,9 @@ Project-Simple-ETL-with-Pandas/
 │
 ├── data/
 │   ├── input/
-│   │   └── dqthon-participants-mock.csv       # Dataset fiktif replikasi (Mock Data)
+│   │   └── data_input_dqthon-participants-mock.csv      # Dataset fiktif replikasi (Mock Data)
 │   └── output/
 │       └── dqthon-participants-cleaned.csv    # Dataset hasil pembersihan (Siap pakai)
 │
-├── Project_Simple_ETL_with_Pandas.py          # Skrip utama proses ETL
+├── main.py          # Skrip utama proses ETL
 └── README.md                                  # Dokumentasi proyek
